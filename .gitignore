@@ -1,0 +1,20 @@
+# Java build output
+/bin/
+/build/
+/out/
+/target/
+*.class
+
+# Logs and JVM crash reports
+*.log
+hs_err_pid*.log
+replay_pid*.log
+
+# IDE/editor files
+.idea/
+.vscode/
+*.iml
+
+# OS noise
+.DS_Store
+Thumbs.db
